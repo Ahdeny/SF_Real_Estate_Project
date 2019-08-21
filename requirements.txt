@@ -2,5 +2,4 @@ fiona
 pandas
 numpy
 geopandas
-json
 bokeh
